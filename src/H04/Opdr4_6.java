@@ -9,13 +9,13 @@ public class Opdr4_6 extends Applet {
 
     public void paint(Graphics g) {
         g.setColor(Color.black);
-        g.fillOval(50,80,100,240);
+        g.fillOval(50,80,130,240);
         g.setColor(Color.red);
-        g.fillOval(50,50,60,60);
+        g.fillOval(85,220,60,60);
         g.setColor(Color.yellow);
-        g.fillOval(50,50,60,60);
+        g.fillOval(85,160,60,60);
         g.setColor(Color.green);
-        g.fillOval(50,50,60,60);
+        g.fillOval(85,100,60,60);
 
 
 
